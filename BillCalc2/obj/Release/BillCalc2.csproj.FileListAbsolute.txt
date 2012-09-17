@@ -1,0 +1,12 @@
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc2\BillCalc2\bin\Release\BillCalc2.exe.config
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc2\BillCalc2\bin\Release\BillCalc2.exe
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc2\BillCalc2\bin\Release\BillCalc2.pdb
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc2\BillCalc2\obj\Release\MainWindow.baml
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc2\BillCalc2\obj\Release\MainWindow.g.cs
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc2\BillCalc2\obj\Release\App.g.cs
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc2\BillCalc2\obj\Release\BillCalc2_MarkupCompile.cache
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc2\BillCalc2\obj\Release\BillCalc2.g.resources
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc2\BillCalc2\obj\Release\BillCalc2.Properties.Resources.resources
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc2\BillCalc2\obj\Release\BillCalc2.csproj.GenerateResource.Cache
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc2\BillCalc2\obj\Release\BillCalc2.exe
+c:\users\jaysonr\documents\visual studio 2012\Projects\BillCalc2\BillCalc2\obj\Release\BillCalc2.pdb
